@@ -1,0 +1,11 @@
+.countdown{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 100px;
+    color:gold;
+    font-weight: bolder;
+ }
+
+ body {
+    background: black;
+ }
